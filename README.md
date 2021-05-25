@@ -1,3 +1,12 @@
+To run the application
+In the command line:
+docker-compose up -d --build
+
+Once the container is built and running visit 
+http://localhost:3001/
+in your browser.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
